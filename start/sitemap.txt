@@ -1,0 +1,11 @@
+
+http://athulan.github.com/archive.html
+http://athulan.github.com/atom.xml
+http://athulan.github.com/categories.html
+http://athulan.github.com/index.html
+http://athulan.github.com/pages.html
+http://athulan.github.com/sitemap.txt
+http://athulan.github.com/tags.html
+
+http://athulan.github.com/boring/2012/04/19/blah-blah
+http://athulan.github.com/lessons/2011/12/29/jekyll-introduction

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Welcome to System Insights!
-tagline: Manufacturing Big Data
+title: vimana
+tagline: Software Platform for Manufacturing Big Data Analytics
 ---
 {% include JB/setup %}
 
 # This is vimana
+
+

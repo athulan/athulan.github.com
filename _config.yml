@@ -11,11 +11,28 @@ pygments: true
 #
 title : System Insights
 tagline: Manufacturing Big Data Analytics
-author :
-  name : System Insights Inc.,
-  email : sales@systeminsights.com
-  github : systeminsights
-  twitter : systeminsights
+authors:
+  athulan:
+    name: Athulan Vijayaraghavan
+    display_name: Athulan
+    gravatar: 
+    email: athulan@systeminsights.com
+    web: http://systeminsights.com
+    twitter: systeminsights
+    github: athulan
+  prince:
+    name: Prince Arora
+    display_name: prince
+    gravatar: 
+    email: prince@gmail.com
+    web: http://princearora.com
+    twitter: prince
+    github: prince
+# author :
+#   name : System Insights Inc.,
+#   email : sales@systeminsights.com
+#   github : systeminsights
+#   twitter : systeminsights
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

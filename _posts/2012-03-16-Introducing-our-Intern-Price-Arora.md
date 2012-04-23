@@ -4,6 +4,7 @@ title: Introducing our Intern - Price Arora
 date: 2012-03-16 04:00:00 UTC
 comments: false
 categories: mtconnect interns
+author: prince
 ---
 
 I want to introduce Prince Arora, a student from IIT Madras, who is interning with us at our Chennai office. Prince is developing a suite of MTConnect-based tools to track the maintenance status of machine tools. He is blogging about his experiences at System Insights at his blog, [The 20four hour log](http://princearora.in).

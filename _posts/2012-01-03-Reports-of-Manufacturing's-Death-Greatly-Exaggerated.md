@@ -4,6 +4,7 @@ title: Reports of Manufacturing's Death Greatly Exaggerated
 date: 2012-01-03 04:16:00 UTC
 comments: false
 categories: 
+tags: athulan
 ---
 
 Scott Anderson, a senior economist at Wells Fargo, in an interview with the Star Tribune (hat tip to @JHJackoCMO for tweeting about this):

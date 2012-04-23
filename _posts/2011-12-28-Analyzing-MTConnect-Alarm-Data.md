@@ -4,7 +4,7 @@ title: Analyzing MTConnect Alarm Data
 date: 2011-12-28 12:23:00 UTC
 comments: false
 categories: mtconnect
-tagline: Interesting
+tags: athulan
 ---
 
 Machine Tools produce enormous quantities of Alarm data, but analyzing this data can be a challenge. We are primarily interested in finding out how Alarms can help us understand Production disruptions and downtimes. While Machine Tools tend to be chatty with alarms, the alarms contain only limited information of value. Part of the problem is the lack of descriptive alarm text. Take a look at some examples from a modern, multi-axis CNC-controlled machine tool:

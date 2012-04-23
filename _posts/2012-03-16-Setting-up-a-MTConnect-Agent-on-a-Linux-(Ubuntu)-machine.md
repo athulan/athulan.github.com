@@ -4,7 +4,7 @@ title: Setting up a MTConnect Agent on a Linux (Ubuntu) machine
 date: 2012-03-16 10:40:00 UTC
 comments: false
 categories: mtconnect interns
-tagline: Welcome
+tags: Prince
 ---
 
 This was blogged first at my personal blog [here](http://princearora.wordpress.com/2012/02/24/setting-up-a-mtconnect-agent-on-a-unixubuntu-machine/).

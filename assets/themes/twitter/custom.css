@@ -1,0 +1,188 @@
+<script type="text/css">
+section {
+  display: block;
+}
+img {
+  height: auto;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  vertical-align: middle;
+}
+.row {
+  margin-left: -20px;
+  *zoom: 1;
+}
+.row:before,
+.row:after {
+  display: table;
+  content: "";
+}
+.row:after {
+  clear: both;
+}
+[class*="span"] {
+  float: left;
+  margin-left: 20px;
+}
+.row-fluid {
+  width: 100%;
+  *zoom: 1;
+}
+.row-fluid:before,
+.row-fluid:after {
+  display: table;
+  content: "";
+}
+.row-fluid:after {
+  clear: both;
+}
+.row-fluid > [class*="span"] {
+  float: left;
+  margin-left: 2.127659574%;
+}
+.row-fluid > [class*="span"]:first-child {
+  margin-left: 0;
+}
+.row-fluid > .span12 {
+  width: 99.99999998999999%;
+}
+.row-fluid > .span11 {
+  width: 91.489361693%;
+}
+.row-fluid > .span10 {
+  width: 82.97872339599999%;
+}
+.row-fluid > .span9 {
+  width: 74.468085099%;
+}
+.row-fluid > .span8 {
+  width: 65.95744680199999%;
+}
+.row-fluid > .span7 {
+  width: 57.446808505%;
+}
+.row-fluid > .span6 {
+  width: 48.93617020799999%;
+}
+.row-fluid > .span5 {
+  width: 40.425531911%;
+}
+.row-fluid > .span4 {
+  width: 31.914893614%;
+}
+.row-fluid > .span3 {
+  width: 23.404255317%;
+}
+.row-fluid > .span2 {
+  width: 14.89361702%;
+}
+.row-fluid > .span1 {
+  width: 6.382978723%;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  *zoom: 1;
+}
+.container:before,
+.container:after {
+  display: table;
+  content: "";
+}
+.container:after {
+  clear: both;
+}
+.container-fluid {
+  padding-left: 20px;
+  padding-right: 20px;
+  *zoom: 1;
+}
+.container-fluid:before,
+.container-fluid:after {
+  display: table;
+  content: "";
+}
+.container-fluid:after {
+  clear: both;
+}
+
+section {
+  padding-top: 40px; }
+  section h2 {
+    text-align: center;
+    margin: 0; }
+  section h3 {
+    margin-bottom: 0.2em;
+    line-height: 1.2;
+    margin-top: 0; }
+  section.screenshots {
+    text-align: center; }
+    section.screenshots > div {
+      position: relative;
+      margin-top: 20px;
+      height: 470px; }
+      section.screenshots > div h4 {
+        font-size: 18px;
+        font-weight: normal;
+        margin-bottom: 30px; }
+    section.screenshots .shadow {
+      height: 10px;
+      width: 100%;
+      position: absolute;
+      bottom: -3px;
+      left: 10px;
+      background: url('/assets/vimana/home-divider.png') center bottom no-repeat; }
+    section.screenshots .tabs {
+      list-style: none;
+      border: 1px solid #ccc;
+      margin: 40px auto;
+      display: inline-block;
+      text-align: center;
+      font-size: 15px;
+      -webkit-border-radius: 6px;
+      -moz-border-radius: 6px;
+      -ms-border-radius: 6px;
+      -o-border-radius: 6px;
+      border-radius: 6px; }
+      section.screenshots .tabs li {
+        width: 120px;
+        border-right: 1px solid #ddd;
+        margin: 0 0 0 0;
+        padding: 0;
+		text-align: center;
+        float: left; }
+        section.screenshots .tabs li a {
+          display: block;
+          padding: 0.8em 0; }
+        section.screenshots .tabs li a:hover {
+          text-decoration: none; }
+        section.screenshots .tabs li:first-child {
+          -moz-border-radius-topleft: 6px;
+          -webkit-border-top-left-radius: 6px;
+          -ms-border-top-left-radius: 6px;
+          -o-border-top-left-radius: 6px;
+          border-top-left-radius: 6px;
+          -moz-border-radius-bottomleft: 6px;
+          -webkit-border-bottom-left-radius: 6px;
+          -ms-border-bottom-left-radius: 6px;
+          -o-border-bottom-left-radius: 6px;
+          border-bottom-left-radius: 6px; }
+        section.screenshots .tabs li:last-child {
+          border-right: none;
+          -moz-border-radius-topright: 6px;
+          -webkit-border-top-right-radius: 6px;
+          -ms-border-top-right-radius: 6px;
+          -o-border-top-right-radius: 6px;
+          border-top-right-radius: 6px;
+          -moz-border-radius-bottomright: 6px;
+          -webkit-border-bottom-right-radius: 6px;
+          -ms-border-bottom-right-radius: 6px;
+          -o-border-bottom-right-radius: 6px;
+          border-bottom-right-radius: 6px; }
+        section.screenshots .tabs li a.selected {
+          background: #f0f0f0;
+          border-color: #ccc;
+          box-shadow: inset 0 1px 2px #ccc;
+          color: #000; }
+
+</script>
